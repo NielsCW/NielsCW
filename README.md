@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NielsCW
 - 👀 I’m interested in programming, mathematics.
-- 🌱 I’m currently learning computer science.
+- 🌱 I’m currently working as a Software Engineer.
 - 📫 How to reach me niels@at-site.be
 
 <!---
